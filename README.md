@@ -3,7 +3,7 @@
 I'm Ny Lisa, but you can call me Sue! I'm a passionate web developer exploring the world of coding.
 
 - 🌱 I’m currently learning more about full-stack development.
-- 📫 How to reach me: [ny.lisa24@kit.edu.kh]
+- 📫 How to reach me: ny.lisa24@kit.edu.kh
 - ⚡ Fun fact: I love music and movie
 
 ### My Skills & Tools 🚀
