@@ -11,9 +11,7 @@ I'm Ny Lisa, but you can call me Sue! I'm a passionate web developer exploring t
 Here are some of the technologies I have been working with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,flutter" />
-
-  <img src="https://skillicons.dev/icons?i=jupyter,kaggle,postgres,drizzle,cisco,git,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,flutter,postgres" />
   
   <img src="https://skillicons.dev/icons?i=express,nodejs,react,angular,django,jupyter,numpy" />
 
