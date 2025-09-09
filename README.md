@@ -17,18 +17,3 @@ Here are some of the technologies I have been working with:
 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vscode,github,supabase" />
 </p>
-
----
-
-### What I'm Proud Of 🚀
-
-Here are some of my favorite projects.
-
-#### **Project Name**
-Brief description of the project. Link to the project repo: [Project Link](https://github.com/nyylisa/...)
-
----
-
-### My GitHub Stats 📈
-
-![Ny Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyylisa&show_icons=true&theme=default)
