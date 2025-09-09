@@ -13,7 +13,7 @@ Here are some of the technologies I have been working with:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,flutter" />
   
-  <img src="https://skillicons.dev/icons?i=express,nodejs,react,angular,django" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,react,angular,django,jupyter,numpy" />
 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vscode,github,supabase" />
 </p>
