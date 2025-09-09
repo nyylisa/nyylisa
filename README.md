@@ -23,7 +23,7 @@ Here are some of the technologies I have been working with:
   <a href="https://www.facebook.com/sue0.q" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-x-handle" target="_blank">
+  <a href="https://x.com/lisany_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/sue0_q" target="_blank">
