@@ -2,25 +2,20 @@
 
 I'm Ny Lisa, but you can call me Sue! I'm a passionate web developer exploring the world of coding.
 
-- 🔭 I’m currently working on a personal project using Node.js and Express.
 - 🌱 I’m currently learning more about full-stack development.
-- 💬 Ask me about anything related to web development, I'm happy to help!
-- 📫 How to reach me: [Your Email Address or other contact info]
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love spending my free time traveling and exploring new places!
-
----
+- 📫 How to reach me: [ny.lisa24@kit.edu.kh]
+- ⚡ Fun fact: I love music and movie
 
 ### My Skills & Tools 🚀
 
-Here are some of the technologies I'm working with:
+Here are some of the technologies I have been working with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,flutter" />
   
-  <img src="https://skillicons.dev/icons?i=express,nodejs,react,angular,vue" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,react,angular,django" />
 
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vscode,github,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vscode,github,supabase" />
 </p>
 
 ---
