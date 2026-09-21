@@ -11,11 +11,11 @@ I'm Ny Lisa, but you can call me Sue! I'm a passionate web developer exploring t
 Here are some of the technologies I have been working with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,flutter,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,postgres" />
   
-  <img src="https://skillicons.dev/icons?i=express,nodejs,react,angular,django,jupyter,numpy" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,react,jupyter,numpy" />
 
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vscode,github,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,vscode,github,supabase,neon" />
 </p>
 ### 🌐 Connect With Me
 
