@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Ny Lisa, but you can call me Sue! I'm a passionate web developer exploring the world of coding.
+I'm Ny Lisa, but you can call me Sue! I'm a passionate full stack engineer exploring the world of coding.
 
 - 🌱 I’m currently learning more about full-stack development.
-- 📫 How to reach me: ny.lisa24@kit.edu.kh
+- 📫 How to reach me: nylisa.se@gmail.com
 - ⚡ Fun fact: I love music and movie
 
 ### My Skills & Tools 🚀
